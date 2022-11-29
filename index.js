@@ -1,1 +1,0 @@
-<meta http-equiv="refresh" content="0; url=https://hbasso.github.io/wherecaniwatch/src/index.js" />
