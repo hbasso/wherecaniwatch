@@ -4,6 +4,7 @@ import Home from './components/home/home';
 import Work from './components/work/work';
 import Social from './components/social/social';
 import Nav from './components/nav/navbar';
+
 function App() {
   return (
 <>
