@@ -1,0 +1,27 @@
+/* html, body {
+    height: 100%;
+    min-height: 100%;
+    background-attachment: fixed;
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 10%, rgba(44,62,80,1) 80%); 
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  } */
+
+/* blue/black
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 20%, rgba(44,62,80,1) 80%);   */
+
+  /* blue/grey
+  background: rgb(124,152,179);
+  background: linear-gradient(0deg, rgba(124,152,179,1) 20%, rgba(99,112,129,1) 80%); 
+   */
+  /* darkgrey/grey
+  background: rgb(40,49,59);
+  background: linear-gradient(0deg, rgba(40,49,59,1) 20%, rgba(72,84,97,1) 80%);  */
+
+  /* blue/purple
+  background: rgb(13,50,77);
+  background: linear-gradient(0deg, rgba(13,50,77,1) 20%, rgba(127,90,131,1) 80%); */
