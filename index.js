@@ -1,1 +1,0 @@
-<meta httpEquiv="Content-Security-Policy" content="0; url=https://hbasso.github.io/wherecaniwatch/src/index.js; default-src *; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval' http://www.google."></meta>

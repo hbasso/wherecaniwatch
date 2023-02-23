@@ -1,0 +1,17 @@
+.homecontainer {
+    display: flex;
+    height: 100%;
+}
+
+.homeblock {
+    position: relative;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    width: 25%;
+    margin: auto;
+    z-index: 1;
+    margin-top: 10%;
+    font-size: 30px;
+    border-radius: 20%;
+    padding: 2%;
+}

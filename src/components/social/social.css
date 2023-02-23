@@ -13,10 +13,12 @@
     font-size: 1.5em;
     text-transform: uppercase;
     font-weight: 500;
+    z-index: 2;
 }
 
 
 .git-icon {
+  z-index: 2;
 
     fill: #26d991;
     transition: transform 0.5s ease-out, fill 1s ease-out;
@@ -30,6 +32,7 @@
   }
 
   .insta-icon {
+    z-index: 2;
     transition: transform 0.5s ease-out, fill 1s ease-out;
   }
   .insta-icon:hover {
@@ -42,6 +45,7 @@
 
   
   .linkedin-icon {
+    z-index: 2;
     fill: #0077B5;
     transition: transform 0.5s ease-out, fill 1s ease-out;
   }

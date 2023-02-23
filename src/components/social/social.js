@@ -5,6 +5,7 @@ import { GithubIcon } from "./icons/github";
 
 function Social() {
   return (
+    <div className="socialbubble">
     <div className="soc">
       <div className="git-icon github">
         <a
@@ -44,6 +45,7 @@ function Social() {
           <p className="social-text">hudson-basso</p>
         </a>
       </div>
+    </div>
     </div>
   );
 }
